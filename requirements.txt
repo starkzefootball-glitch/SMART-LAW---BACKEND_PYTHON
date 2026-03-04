@@ -5,3 +5,4 @@ numpy
 scikit-learn
 pillow
 google-generativeai
+psycopg2-binary
